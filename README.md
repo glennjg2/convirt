@@ -3,7 +3,7 @@
 
 - Maven
 - Python 3.8+
-- PyTorch
+- PyTorch 2.0+
 - Pandas
 - transformers (huggingface)
 
@@ -22,8 +22,6 @@ dataset/
     ├╴...
     └╴p19
 ```
-
-I made a symlink from `dataset/mimic-cxr-jpg-2.0.0` to the actual location in my storage device. Same for the preprocessed resized jpgs in `dataset/mimic-cxr-jpg-2.0.0-resized`.
 
 # Download MIMIC CXR Data
 
