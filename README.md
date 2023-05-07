@@ -67,6 +67,18 @@ models/
       └╴ClinicalBERT
 ```
 
+## Download RSNA
+
+https://www.kaggle.com/competitions/rsna-pneumonia-detection-challenge/data
+
+Extract into `dataset/rsna-pneumonia-detection-challenge`.
+
+## Download COVIDx
+
+https://www.kaggle.com/datasets/andyczhao/covidx-cxr2
+
+Extract into `dataset/covidx`.
+
 # Preprocessing
 
 ## Tokenization
